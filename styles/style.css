@@ -2,7 +2,7 @@ html {
 
     font-size: 16px;
     background-color: whitesmoke;
-    font-family: 'Roboto Slab', 'sans serif';
+    font-family: 'Montserrat', 'Roboto Slab','sans serif';
 
 }
 
@@ -63,6 +63,7 @@ img {
 }
 
 table, table td {
+    font-family: "Roboto Slab","san serif";
     width: 1100px;
     justify-content: center;
     justify-self: center;
@@ -72,6 +73,91 @@ table, table td {
     text-align: center;
     border: 10px black;
     border-radius: 9px;
+}
+.button {
+    font-family: "Roboto Slab", "san serif";
+}
+
+    
+
+/* comment */html {
+
+    font-size: 16px;
+    background-color: whitesmoke;
+    font-family: 'Montserrat', 'Roboto Slab','sans serif';
+
+}
+
+img {
+    border-radius: 8px;
+    max-width: 1100px;
+    height: auto;
+
+}
+
+body {
+    width: 1100px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    padding: 0 20px 20px 20px;
+    border: 5px solid transparent;
+}
+
+h1,
+h2,
+h4,
+a {
+    margin: 0;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+ul {
+    margin: 0;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    padding: 20px 0;
+    color: black;
+
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+#line1 {
+    color: black;
+}
+.be-bold, .race-day {
+    font-weight: bold;
+}
+.race-day {
+    color: rgba(255, 0, 0, 0.808);
+}
+
+table, table td {
+    font-family: "Roboto Slab","san serif";
+    width: 1100px;
+    justify-content: center;
+    justify-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #de8fa9;
+    text-align: center;
+    border: 10px black;
+    border-radius: 9px;
+}
+.button {
+    font-family: "Roboto Slab", "san serif";
 }
 
     
